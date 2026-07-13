@@ -263,4 +263,4 @@ npm run seed
 npm run dev
 
 # 7. Server runs on http://localhost:5000
-```
+```# the-third-strike-server
