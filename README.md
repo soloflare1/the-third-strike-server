@@ -13,6 +13,9 @@
   <h1>The Third Strike — Server</h1>
   <p><strong>Backend API for the Student Safety & Accountability Platform</strong></p>
 
+  <a href="https://github.com/soloflare1/the-third-strike-server">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+  </a>
   <a href="https://the-third-strike-server-1.onrender.com">
     <img src="https://img.shields.io/badge/Live_API-000000?style=for-the-badge&logo=render&logoColor=white" alt="Live API" />
   </a>
@@ -243,7 +246,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/SultanaBristy226/the-third-strike-server.git
+git clone https://github.com/soloflare1/the-third-strike-server.git
 cd the-third-strike-server
 
 # 2. Install dependencies
@@ -263,4 +266,4 @@ npm run seed
 npm run dev
 
 # 7. Server runs on http://localhost:5000
-```# the-third-strike-server
+```
